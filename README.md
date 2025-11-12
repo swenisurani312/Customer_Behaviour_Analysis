@@ -137,5 +137,5 @@ View the Gamma presentation using the shared link.
 
 Name: Sweni Surani
 Role: Data Analyst 
-LinkedIn: [Your LinkedIn URL]
-GitHub: [Your GitHub URL]
+LinkedIn: linkedin.com/in/sweni-surani-616998258
+GitHub: (https://github.com/swenisurani312/Customer_Behaviour_Analysis)
