@@ -114,7 +114,7 @@ Built an automated dashboard for continuous monitoring.
 
 Clone this repository:
 
-git clone https://github.com/yourusername/data-analytics-project.git
+git clone https://github.com/swenisurani312/data-analytics-project.git
 
 
 Open the project folder and install dependencies:
