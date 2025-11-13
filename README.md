@@ -110,29 +110,6 @@ Provided actionable insights for business growth.
 
 Built an automated dashboard for continuous monitoring.
 
-🚀 How to Run
-
-Clone this repository:
-
-git clone https://github.com/swenisurani312/data-analytics-project.git
-
-
-Open the project folder and install dependencies:
-
-pip install -r requirements.txt
-
-
-Run the Jupyter Notebook:
-
-jupyter notebook
-
-
-Execute SQL queries using MySQL/PostgreSQL.
-
-Open the Power BI file (.pbix) to explore the dashboard.
-
-View the Gamma presentation using the shared link.
-
 🧑‍💻 Author
 
 Name: Sweni Surani
